@@ -1,0 +1,19 @@
+body {
+	background-image: url("https://s3.envato.com/files/111553211/questionMark_blue_red.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+h1 {
+	text-align: center;
+	font-size: 72px;
+	outline: 3px solid white;
+  	background: -webkit-linear-gradient(#d40cb2, #0cd1d4);
+  	-webkit-background-clip: text;
+  	-webkit-text-fill-color: transparent;
+}
+.correct {
+	color: green;
+}
+.incorrect {
+	color: red;
+}
